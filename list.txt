@@ -21,7 +21,8 @@ CLI	A CLI, or command-line interface, is a console that helps users issue comman
 compiler	Compilers are software that translate higher-level programming languages to lower-level languages (e.g. machine code).
 computer-vision	Computer vision is an interdisciplinary scientific field that deals with how computers can be made to gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to automate tasks that the human visual system can do.		
 continuous integration	Automatically build and test your code as you push it upstream, preventing bugs from being deployed to production.	
-cryptocurrency	A cryptocurrency is a digital currency that uses cryptography.	
+cryptocurrency	A cryptocurrency is a digital currency that uses cryptography.
+d3	D3js allows you to bind arbitrary data to a Document Object Model (DOM), and then apply data-driven transformations to the document. 
 data visualization	Data visualization is the graphic representation of data and trends.	
 database	A database is a structured set of data held in a computer, usually a server.	
 deep learning	Deep Learning is an artificial neural network composed of many layers.	
