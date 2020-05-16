@@ -97,6 +97,9 @@
     "deployment": {
       "description": "Streamline your code deployment so you can focus on your product."
     },
+    "delphi": {
+      "description": "Delphi is a programming language and an integrated development environment for rapid application development of desktop, mobile, web, and console software. The language is also called Object Pascal."
+    },	
     "django": {
       "description": "Django is a web application framework for Python.",
       "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"
