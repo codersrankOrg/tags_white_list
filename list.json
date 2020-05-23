@@ -154,6 +154,10 @@
       "description": "Flask is a web framework for Python based on the Werkzeug toolkit.",
       "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"
     },
+    "flutter": {
+        "description": "Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
+        "image": "https://avatars1.githubusercontent.com/u/14101776?v=4"
+    },
     "font": {
       "description": "A font is a particular style of typeface for text."
     },
